@@ -1,0 +1,1895 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o (initialise_monitor_handles)
+/home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                              ./user/clock.o (symbol from plugin) (crm_reset)
+/home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+                              ./user/main.o (symbol from plugin) (exint_default_para_init)
+/home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+                              ./user/board.o (symbol from plugin) (gpio_init)
+/home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_misc.o)
+                              ./user/main.o (symbol from plugin) (nvic_irq_enable)
+/home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+                              ./user/board.o (symbol from plugin) (usart_init)
+/home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(system_at32f403a_407.o)
+                              ./user/startup_at32f403a_407.o (SystemInit)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o) (__errno)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o (exit)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o) (__sinit)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o) (_fwalk)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o (__libc_init_array)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o) (__retarget_lock_init_recursive)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o (memset)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o) (_malloc_r)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o) (__sread)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strlen.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o) (strlen)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o) (_write_r)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o) (_close_r)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o) (_fflush_r)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o) (_lseek_r)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o) (__malloc_lock)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o) (_free_r)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o) (_read_r)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o) (errno)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_exit.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o) (_exit)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_kill.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_exit.o) (_kill_shared)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                              /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o (__aeabi_unwind_cpp_pr0)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o) (restore_core_regs)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o) (abort)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o) (memcpy)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+                              /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o (puts)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o) (raise)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o) (_kill_r)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o) (__swbuf_r)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o) (__swsetup_r)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o) (_fstat_r)
+/home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+                              /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o) (_isatty_r)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000000000000       0xf8 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+ .data          0x0000000000000000      0x118 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+ .text          0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.at32_led_off
+                0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.delay_ms
+                0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.at32_button_init
+                0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.at32_led_init
+                0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.NMI_Handler
+                0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.HardFault_Handler
+                0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.MemManage_Handler
+                0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.BusFault_Handler
+                0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.UsageFault_Handler
+                0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.SVC_Handler
+                0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.DebugMon_Handler
+                0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.PendSV_Handler
+                0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.SysTick_Handler
+                0x0000000000000000        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cctWgRcg.debug.temp.o
+ .comment       0x0000000000000000       0x4a /tmp/cctWgRcg.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000      0xbe6 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x57 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x22 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000      0x103 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x6a /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000      0x1df /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x22 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0xfb /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000     0x1011 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000      0x11f /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000      0x296 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0xb2 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0xa7 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0xe4 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x41 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1d /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000      0x33b /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0xaf /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0xae /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x29 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000      0x138 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x4f /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1d /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x76 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000      0x20e /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0xa1 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000      0x151 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x11 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x16 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1d /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x8f /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000      0x12c /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x18 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x35 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000       0x16 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000      0x233 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000000000      0x2c5 /tmp/ccurYzX0.debug.temp.o
+ .comment       0x0000000000000000       0x4a /tmp/ccurYzX0.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000      0xbe6 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x57 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x22 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x8e /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x51 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000      0x103 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x6a /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000      0x1df /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x22 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0xfb /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000     0x1011 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000      0x11f /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000      0x296 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0xb2 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0xa7 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0xe4 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x41 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1d /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000      0x33b /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0xaf /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0xae /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x29 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000      0x138 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x4f /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1d /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x76 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000      0x20e /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0xa1 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000      0x151 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x11 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x16 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1d /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x8f /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000      0x12c /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x18 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x35 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000       0x16 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000      0x233 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000000000      0x2c5 /tmp/cc63piXk.debug.temp.o
+ .comment       0x0000000000000000       0x4a /tmp/cc63piXk.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .group         0x0000000000000000        0xc /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0xbe6 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x57 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x22 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x8e /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x51 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x103 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x6a /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x1df /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x22 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0xfb /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000     0x1011 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x11f /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x296 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0xb2 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0xa7 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0xe4 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x41 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1d /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x33b /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0xaf /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0xae /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x29 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x138 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x4f /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1d /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x76 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x20e /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0xa1 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x151 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x11 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x16 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1d /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x8f /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x12c /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x18 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x35 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x16 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x233 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x2c5 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1e /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x35 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x34 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x16 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x97 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x364 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x104 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x10 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x16 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x43 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x34 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x10 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x58 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x182 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x10 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x52 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x22 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x10 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x52 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0xd5 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x1c /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x3d /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x16 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000      0x137 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000000000       0x70 /tmp/ccnpDGYu.debug.temp.o
+ .comment       0x0000000000000000       0x4a /tmp/ccnpDGYu.debug.temp.o
+ .text          0x0000000000000000       0x14 ./user/startup_at32f403a_407.o
+ .data          0x0000000000000000        0x0 ./user/startup_at32f403a_407.o
+ .bss           0x0000000000000000        0x0 ./user/startup_at32f403a_407.o
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .text._open    0x0000000000000000       0x12 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .text._link    0x0000000000000000       0x10 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .text._unlink  0x0000000000000000       0x28 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .text._gettimeofday
+                0x0000000000000000       0x28 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .text._clock   0x0000000000000000       0x12 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .text._times   0x0000000000000000       0x16 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .text._system  0x0000000000000000       0x3c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .text._rename  0x0000000000000000       0x36 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_lext_bypass
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_hext_bypass
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_hick_clock_trimming_set
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_hick_clock_calibration_set
+                0x0000000000000000       0x24 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_periph_reset
+                0x0000000000000000        0x4 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_periph_sleep_mode_clock_enable
+                0x0000000000000000        0x4 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_flag_clear
+                0x0000000000000000       0x88 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_rtc_clock_select
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_rtc_clock_enable
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_adc_clock_div_set
+                0x0000000000000000       0x1c /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_usb_clock_div_set
+                0x0000000000000000       0x1c /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_clock_failure_detection_enable
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_battery_powered_domain_reset
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_clocks_freq_get
+                0x0000000000000000       0xdc /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_clock_out_set
+                0x0000000000000000       0x1c /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_interrupt_enable
+                0x0000000000000000       0x18 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_usb_interrupt_remapping_set
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_hick_divider_select
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_hick_sclk_frequency_select
+                0x0000000000000000       0x18 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_usb_clock_source_select
+                0x0000000000000000       0x24 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_clkout_to_tmr10_enable
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_clkout_div_set
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text.crm_emac_output_pulse_set
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .rodata.adc_div_table.0
+                0x0000000000000000        0x8 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .rodata.ahb_apb1_div_table.2
+                0x0000000000000000        0x8 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .rodata.sclk_ahb_div_table.3
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+ .text.exint_reset
+                0x0000000000000000       0x1c /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+ .text.exint_default_para_init
+                0x0000000000000000        0xc /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+ .text.exint_init
+                0x0000000000000000       0x5c /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+ .text.exint_flag_get
+                0x0000000000000000       0x14 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+ .text.exint_software_interrupt_event_generate
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+ .text.exint_interrupt_enable
+                0x0000000000000000       0x18 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+ .text.exint_event_enable
+                0x0000000000000000       0x18 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_reset
+                0x0000000000000000       0x98 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_iomux_reset
+                0x0000000000000000       0x1a /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_input_data_read
+                0x0000000000000000        0x6 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_output_data_bit_read
+                0x0000000000000000        0xc /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_output_data_read
+                0x0000000000000000        0x6 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_bits_set
+                0x0000000000000000        0x4 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_bits_reset
+                0x0000000000000000        0x4 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_bits_write
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_port_write
+                0x0000000000000000        0x4 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_pin_wp_config
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_pins_huge_driven_config
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_event_output_config
+                0x0000000000000000       0x18 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_event_output_enable
+                0x0000000000000000       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_pin_remap_config
+                0x0000000000000000       0x3c /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text.gpio_exint_line_config
+                0x0000000000000000       0x70 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_misc.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_misc.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_misc.o)
+ .text.nvic_system_reset
+                0x0000000000000000       0x24 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_misc.o)
+ .text.nvic_irq_enable
+                0x0000000000000000       0x74 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_misc.o)
+ .text.nvic_irq_disable
+                0x0000000000000000       0x28 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_misc.o)
+ .text.nvic_priority_group_config
+                0x0000000000000000       0x24 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_misc.o)
+ .text.nvic_vector_table_set
+                0x0000000000000000       0x14 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_misc.o)
+ .text.nvic_lowpower_mode_config
+                0x0000000000000000       0x18 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_misc.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_reset
+                0x0000000000000000       0xec /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_init
+                0x0000000000000000       0x70 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_parity_selection_config
+                0x0000000000000000       0x34 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_enable
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_transmitter_enable
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_receiver_enable
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_clock_config
+                0x0000000000000000       0x1c /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_clock_enable
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_interrupt_enable
+                0x0000000000000000       0x1e /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_dma_transmitter_enable
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_dma_receiver_enable
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_wakeup_id_set
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_wakeup_mode_set
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_receiver_mute_enable
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_break_bit_num_set
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_lin_mode_enable
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_data_transmit
+                0x0000000000000000        0x8 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_data_receive
+                0x0000000000000000        0x6 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_break_send
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_smartcard_guard_time_set
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_irda_smartcard_division_set
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_smartcard_mode_enable
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_smartcard_nack_set
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_single_line_halfduplex_select
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_irda_mode_enable
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_irda_low_power_enable
+                0x0000000000000000        0xa /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_hardware_flow_control_set
+                0x0000000000000000       0x48 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_flag_get
+                0x0000000000000000        0xc /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text.usart_flag_clear
+                0x0000000000000000        0xe /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .comment       0x0000000000000000       0x4a /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_usart.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(system_at32f403a_407.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(system_at32f403a_407.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(system_at32f403a_407.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000       0x18 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000       0x18 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000        0xc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x1c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x1c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x3a /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x2 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x2 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x2 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x2 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x2 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x0000000000000000        0x1 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x24 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb8 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x0000000000000000       0x28 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .text._signal_r
+                0x0000000000000000       0x30 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .text.__sigtramp_r
+                0x0000000000000000       0x48 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .text.signal   0x0000000000000000       0x10 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .text._init_signal
+                0x0000000000000000        0xc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .text.__sigtramp
+                0x0000000000000000       0x10 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x10 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_exit.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_exit.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_exit.o)
+ .debug_frame   0x0000000000000000       0x28 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_exit.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_kill.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_kill.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_kill.o)
+ .debug_frame   0x0000000000000000       0x40 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_kill.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_kill.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab     0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text.unlikely
+                0x0000000000000000        0xc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text.unlikely
+                0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text.unlikely
+                0x0000000000000000       0x10 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x0000000000000000       0x24 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x00000000000fa000 xr
+RAM              0x0000000020000000 0x0000000000018000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+LOAD ./user/board.o
+LOAD /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+LOAD /tmp/cctWgRcg.debug.temp.o
+LOAD /tmp/ccurYzX0.debug.temp.o
+LOAD /tmp/cc63piXk.debug.temp.o
+LOAD /tmp/ccnpDGYu.debug.temp.o
+LOAD ./user/clock.o
+LOAD ./user/handlers.o
+LOAD ./user/main.o
+LOAD ./user/startup_at32f403a_407.o
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a
+LOAD /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+START GROUP
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a
+END GROUP
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000020018000                _estack = 0x20018000
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x184
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x184 ./user/startup_at32f403a_407.o
+                0x0000000008000000                g_pfnVectors
+                0x0000000008000184                . = ALIGN (0x4)
+
+.text           0x0000000008000184     0x2694
+                0x0000000008000184                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000184       0x40 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000080001c4       0x10 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strlen.o)
+                0x00000000080001c4                strlen
+ .text          0x00000000080001d4      0x9d8 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                0x000000000800047c                _Unwind_GetCFA
+                0x0000000008000480                __gnu_Unwind_RaiseException
+                0x00000000080004e8                __gnu_Unwind_ForcedUnwind
+                0x00000000080004f8                __gnu_Unwind_Resume
+                0x000000000800053c                __gnu_Unwind_Resume_or_Rethrow
+                0x000000000800054c                _Unwind_Complete
+                0x0000000008000550                _Unwind_DeleteException
+                0x000000000800055c                _Unwind_VRS_Get
+                0x00000000080005a8                _Unwind_VRS_Set
+                0x00000000080005f0                __gnu_Unwind_Backtrace
+                0x000000000800091c                __aeabi_unwind_cpp_pr0
+                0x0000000008000920                __aeabi_unwind_cpp_pr1
+                0x0000000008000924                __aeabi_unwind_cpp_pr2
+                0x0000000008000928                _Unwind_VRS_Pop
+ .text          0x0000000008000bac      0x1ac /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                0x0000000008000bac                __restore_core_regs
+                0x0000000008000bac                restore_core_regs
+                0x0000000008000bc4                __gnu_Unwind_Restore_VFP
+                0x0000000008000bcc                __gnu_Unwind_Save_VFP
+                0x0000000008000bd4                __gnu_Unwind_Restore_VFP_D
+                0x0000000008000bdc                __gnu_Unwind_Save_VFP_D
+                0x0000000008000be4                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x0000000008000bec                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x0000000008000bf4                __gnu_Unwind_Restore_WMMXD
+                0x0000000008000c38                __gnu_Unwind_Save_WMMXD
+                0x0000000008000c7c                __gnu_Unwind_Restore_WMMXC
+                0x0000000008000c90                __gnu_Unwind_Save_WMMXC
+                0x0000000008000ca4                ___Unwind_RaiseException
+                0x0000000008000ca4                _Unwind_RaiseException
+                0x0000000008000cc8                ___Unwind_Resume
+                0x0000000008000cc8                _Unwind_Resume
+                0x0000000008000cec                _Unwind_Resume_or_Rethrow
+                0x0000000008000cec                ___Unwind_Resume_or_Rethrow
+                0x0000000008000d10                ___Unwind_ForcedUnwind
+                0x0000000008000d10                _Unwind_ForcedUnwind
+                0x0000000008000d34                _Unwind_Backtrace
+                0x0000000008000d34                ___Unwind_Backtrace
+ .text          0x0000000008000d58      0x350 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+                0x0000000008000db0                __gnu_unwind_execute
+                0x000000000800105c                __gnu_unwind_frame
+                0x0000000008001088                _Unwind_GetRegionStart
+                0x0000000008001094                _Unwind_GetLanguageSpecificData
+ *(.text*)
+ .text.at32_led_off
+                0x00000000080010a8       0x1c /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .text.delay_ms
+                0x00000000080010c4       0x64 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .text.at32_button_init
+                0x0000000008001128       0x40 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .text.at32_led_init
+                0x0000000008001168       0x48 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .text.delay_init
+                0x00000000080011b0       0x34 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .text.at32_board_init
+                0x00000000080011e4       0x30 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .text.system_clock_config
+                0x0000000008001214       0x6a /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ *fill*         0x000000000800127e        0x2 
+ .text._Z10button_isrv
+                0x0000000008001280       0x3c /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .text.NMI_Handler
+                0x00000000080012bc        0x2 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                0x00000000080012bc                NMI_Handler
+ .text.HardFault_Handler
+                0x00000000080012be        0x2 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                0x00000000080012be                HardFault_Handler
+ .text.MemManage_Handler
+                0x00000000080012c0        0x2 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                0x00000000080012c0                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000000080012c2        0x2 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                0x00000000080012c2                BusFault_Handler
+ .text.UsageFault_Handler
+                0x00000000080012c4        0x2 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                0x00000000080012c4                UsageFault_Handler
+ .text.SVC_Handler
+                0x00000000080012c6        0x2 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                0x00000000080012c6                SVC_Handler
+ .text.DebugMon_Handler
+                0x00000000080012c8        0x2 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                0x00000000080012c8                DebugMon_Handler
+ .text.PendSV_Handler
+                0x00000000080012ca        0x2 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                0x00000000080012ca                PendSV_Handler
+ .text.SysTick_Handler
+                0x00000000080012cc        0x2 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                0x00000000080012cc                SysTick_Handler
+ .text.EXINT0_IRQHandler
+                0x00000000080012ce        0x8 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                0x00000000080012ce                EXINT0_IRQHandler
+ *fill*         0x00000000080012d6        0x2 
+ .text.main     0x00000000080012d8       0x24 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                0x00000000080012d8                main
+ .text.Reset_Handler
+                0x00000000080012fc       0x48 ./user/startup_at32f403a_407.o
+                0x00000000080012fc                Reset_Handler
+ .text.Default_Handler
+                0x0000000008001344        0x2 ./user/startup_at32f403a_407.o
+                0x0000000008001344                SDIO1_IRQHandler
+                0x0000000008001344                XMC_IRQHandler
+                0x0000000008001344                EXINT2_IRQHandler
+                0x0000000008001344                USBFS_L_CAN1_RX0_IRQHandler
+                0x0000000008001344                UART8_IRQHandler
+                0x0000000008001344                SPI4_IRQHandler
+                0x0000000008001344                I2C2_EVT_IRQHandler
+                0x0000000008001344                TMR1_OVF_TMR10_IRQHandler
+                0x0000000008001344                TMR8_TRG_HALL_TMR14_IRQHandler
+                0x0000000008001344                USBFS_H_CAN1_TX_IRQHandler
+                0x0000000008001344                I2C1_ERR_IRQHandler
+                0x0000000008001344                EXINT9_5_IRQHandler
+                0x0000000008001344                EMAC_IRQHandler
+                0x0000000008001344                CAN2_RX1_IRQHandler
+                0x0000000008001344                TMR5_GLOBAL_IRQHandler
+                0x0000000008001344                SDIO2_IRQHandler
+                0x0000000008001344                ADC1_2_IRQHandler
+                0x0000000008001344                SPI1_IRQHandler
+                0x0000000008001344                TAMPER_IRQHandler
+                0x0000000008001344                CAN2_RX0_IRQHandler
+                0x0000000008001344                DMA2_Channel2_IRQHandler
+                0x0000000008001344                DMA1_Channel4_IRQHandler
+                0x0000000008001344                TMR8_CH_IRQHandler
+                0x0000000008001344                USART6_IRQHandler
+                0x0000000008001344                USART3_IRQHandler
+                0x0000000008001344                RTC_IRQHandler
+                0x0000000008001344                DMA1_Channel7_IRQHandler
+                0x0000000008001344                CAN1_RX1_IRQHandler
+                0x0000000008001344                UART5_IRQHandler
+                0x0000000008001344                ADC3_IRQHandler
+                0x0000000008001344                ACC_IRQHandler
+                0x0000000008001344                EMAC_WKUP_IRQHandler
+                0x0000000008001344                DMA2_Channel1_IRQHandler
+                0x0000000008001344                EXINT3_IRQHandler
+                0x0000000008001344                DMA1_Channel6_IRQHandler
+                0x0000000008001344                UART4_IRQHandler
+                0x0000000008001344                DMA1_Channel1_IRQHandler
+                0x0000000008001344                Default_Handler
+                0x0000000008001344                USBFS_MAPH_IRQHandler
+                0x0000000008001344                TMR3_GLOBAL_IRQHandler
+                0x0000000008001344                TMR7_GLOBAL_IRQHandler
+                0x0000000008001344                CAN1_SE_IRQHandler
+                0x0000000008001344                CAN2_TX_IRQHandler
+                0x0000000008001344                I2C3_ERR_IRQHandler
+                0x0000000008001344                SPI3_I2S3EXT_IRQHandler
+                0x0000000008001344                TMR1_BRK_TMR9_IRQHandler
+                0x0000000008001344                USBFS_MAPL_IRQHandler
+                0x0000000008001344                TMR8_BRK_TMR12_IRQHandler
+                0x0000000008001344                TMR1_TRG_HALL_TMR11_IRQHandler
+                0x0000000008001344                DMA1_Channel5_IRQHandler
+                0x0000000008001344                TMR4_GLOBAL_IRQHandler
+                0x0000000008001344                EXINT4_IRQHandler
+                0x0000000008001344                CAN2_SE_IRQHandler
+                0x0000000008001344                DMA2_Channel6_7_IRQHandler
+                0x0000000008001344                PVM_IRQHandler
+                0x0000000008001344                I2C3_EVT_IRQHandler
+                0x0000000008001344                DMA1_Channel3_IRQHandler
+                0x0000000008001344                I2C1_EVT_IRQHandler
+                0x0000000008001344                TMR8_OVF_TMR13_IRQHandler
+                0x0000000008001344                TMR6_GLOBAL_IRQHandler
+                0x0000000008001344                EXINT1_IRQHandler
+                0x0000000008001344                RTCAlarm_IRQHandler
+                0x0000000008001344                DMA2_Channel4_5_IRQHandler
+                0x0000000008001344                UART7_IRQHandler
+                0x0000000008001344                USART2_IRQHandler
+                0x0000000008001344                DMA1_Channel2_IRQHandler
+                0x0000000008001344                TMR2_GLOBAL_IRQHandler
+                0x0000000008001344                FLASH_IRQHandler
+                0x0000000008001344                SPI2_I2S2EXT_IRQHandler
+                0x0000000008001344                I2C2_ERR_IRQHandler
+                0x0000000008001344                USBFSWakeUp_IRQHandler
+                0x0000000008001344                USART1_IRQHandler
+                0x0000000008001344                TMR1_CH_IRQHandler
+                0x0000000008001344                CRM_IRQHandler
+                0x0000000008001344                EXINT15_10_IRQHandler
+                0x0000000008001344                WWDT_IRQHandler
+                0x0000000008001344                DMA2_Channel3_IRQHandler
+ *fill*         0x0000000008001346        0x2 
+ .text.findslot
+                0x0000000008001348       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .text.error    0x000000000800137c       0x1c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .text.checkerror
+                0x0000000008001398        0xa /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .text._swiread
+                0x00000000080013a2       0x20 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080013a2                _swiread
+ .text._read    0x00000000080013c2       0x38 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080013c2                _read
+ .text._swilseek
+                0x00000000080013fa       0x78 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080013fa                _swilseek
+ .text._lseek   0x0000000008001472        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000008001472                _lseek
+ .text._swiwrite
+                0x0000000008001476       0x20 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000008001476                _swiwrite
+ .text._write   0x0000000008001496       0x48 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000008001496                _write
+ .text._swiclose
+                0x00000000080014de       0x1a /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080014de                _swiclose
+ .text._close   0x00000000080014f8       0x4c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080014f8                _close
+ .text._getpid  0x0000000008001544        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000008001544                _getpid
+ .text._sbrk    0x0000000008001548       0x48 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000008001548                _sbrk
+ .text._swistat
+                0x0000000008001590       0x42 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000008001590                _swistat
+ .text._fstat   0x00000000080015d2       0x1c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080015d2                _fstat
+ .text._stat    0x00000000080015ee       0x3a /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080015ee                _stat
+ .text._swiopen
+                0x0000000008001628       0xb4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000008001628                _swiopen
+ .text._get_semihosting_exts
+                0x00000000080016dc       0xb8 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080016dc                _get_semihosting_exts
+ .text.initialise_semihosting_exts
+                0x0000000008001794       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .text._has_ext_exit_extended
+                0x00000000080017c8       0x18 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080017c8                _has_ext_exit_extended
+ .text._has_ext_stdout_stderr
+                0x00000000080017e0       0x18 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080017e0                _has_ext_stdout_stderr
+ .text.initialise_monitor_handles
+                0x00000000080017f8       0xc0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080017f8                initialise_monitor_handles
+ .text._isatty  0x00000000080018b8       0x38 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000080018b8                _isatty
+ .text.crm_reset
+                0x00000000080018f0       0x40 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                0x00000000080018f0                crm_reset
+ .text.crm_flag_get
+                0x0000000008001930       0x22 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                0x0000000008001930                crm_flag_get
+ .text.crm_hext_stable_wait
+                0x0000000008001952       0x22 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                0x0000000008001952                crm_hext_stable_wait
+ .text.crm_periph_clock_enable
+                0x0000000008001974       0x24 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                0x0000000008001974                crm_periph_clock_enable
+ .text.crm_clock_source_enable
+                0x0000000008001998       0x4c /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                0x0000000008001998                crm_clock_source_enable
+ .text.crm_ahb_div_set
+                0x00000000080019e4       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                0x00000000080019e4                crm_ahb_div_set
+ .text.crm_apb1_div_set
+                0x00000000080019f4       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                0x00000000080019f4                crm_apb1_div_set
+ .text.crm_apb2_div_set
+                0x0000000008001a04       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                0x0000000008001a04                crm_apb2_div_set
+ .text.crm_pll_config
+                0x0000000008001a14       0x50 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                0x0000000008001a14                crm_pll_config
+ .text.crm_sysclk_switch
+                0x0000000008001a64       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                0x0000000008001a64                crm_sysclk_switch
+ .text.crm_sysclk_switch_status_get
+                0x0000000008001a74       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                0x0000000008001a74                crm_sysclk_switch_status_get
+ .text.crm_auto_step_mode_enable
+                0x0000000008001a84       0x18 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                0x0000000008001a84                crm_auto_step_mode_enable
+ .text.crm_hext_clock_div_set
+                0x0000000008001a9c       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                0x0000000008001a9c                crm_hext_clock_div_set
+ .text.exint_flag_clear
+                0x0000000008001aac       0x1c /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+                0x0000000008001aac                exint_flag_clear
+ .text.gpio_init
+                0x0000000008001ac8       0xa2 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+                0x0000000008001ac8                gpio_init
+ *fill*         0x0000000008001b6a        0x2 
+ .text.gpio_default_para_init
+                0x0000000008001b6c       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+                0x0000000008001b6c                gpio_default_para_init
+ .text.gpio_input_data_bit_read
+                0x0000000008001b7c        0xe /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+                0x0000000008001b7c                gpio_input_data_bit_read
+ .text.systick_clock_source_config
+                0x0000000008001b8a       0x16 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_misc.o)
+                0x0000000008001b8a                systick_clock_source_config
+ .text.SystemInit
+                0x0000000008001ba0       0x5c /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(system_at32f403a_407.o)
+                0x0000000008001ba0                SystemInit
+ .text.system_core_clock_update
+                0x0000000008001bfc       0x98 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(system_at32f403a_407.o)
+                0x0000000008001bfc                system_core_clock_update
+ .text.__errno  0x0000000008001c94        0xc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+                0x0000000008001c94                __errno
+ .text.std      0x0000000008001ca0       0x48 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x0000000008001ce8        0xc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000008001ce8                _cleanup_r
+ .text.__sfmoreglue
+                0x0000000008001cf4       0x2c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000008001cf4                __sfmoreglue
+ .text.__sfp_lock_acquire
+                0x0000000008001d20        0xc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000008001d20                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x0000000008001d2c        0xc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000008001d2c                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x0000000008001d38        0xc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000008001d38                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x0000000008001d44        0xc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000008001d44                __sinit_lock_release
+ .text.__sinit  0x0000000008001d50       0x70 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000008001d50                __sinit
+ .text.__sfp    0x0000000008001dc0       0x8c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000008001dc0                __sfp
+ .text._fwalk_reent
+                0x0000000008001e4c       0x3e /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+                0x0000000008001e4c                _fwalk_reent
+ *fill*         0x0000000008001e8a        0x2 
+ .text.__libc_init_array
+                0x0000000008001e8c       0x48 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+                0x0000000008001e8c                __libc_init_array
+ .text.__retarget_lock_init_recursive
+                0x0000000008001ed4        0x2 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                0x0000000008001ed4                __retarget_lock_init_recursive
+ .text.__retarget_lock_acquire_recursive
+                0x0000000008001ed6        0x2 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                0x0000000008001ed6                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000000008001ed8        0x2 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                0x0000000008001ed8                __retarget_lock_release_recursive
+ .text.memset   0x0000000008001eda       0x10 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+                0x0000000008001eda                memset
+ *fill*         0x0000000008001eea        0x2 
+ .text.sbrk_aligned
+                0x0000000008001eec       0x40 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x0000000008001f2c       0xe8 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000008001f2c                _malloc_r
+ .text._sbrk_r  0x0000000008002014       0x20 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+                0x0000000008002014                _sbrk_r
+ .text.__sread  0x0000000008002034       0x22 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                0x0000000008002034                __sread
+ .text.__swrite
+                0x0000000008002056       0x38 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                0x0000000008002056                __swrite
+ .text.__sseek  0x000000000800208e       0x24 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                0x000000000800208e                __sseek
+ .text.__sclose
+                0x00000000080020b2        0x8 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                0x00000000080020b2                __sclose
+ *fill*         0x00000000080020ba        0x2 
+ .text._write_r
+                0x00000000080020bc       0x24 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+                0x00000000080020bc                _write_r
+ .text._close_r
+                0x00000000080020e0       0x20 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+                0x00000000080020e0                _close_r
+ .text.__sflush_r
+                0x0000000008002100      0x10c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+                0x0000000008002100                __sflush_r
+ .text._fflush_r
+                0x000000000800220c       0x78 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+                0x000000000800220c                _fflush_r
+ .text._lseek_r
+                0x0000000008002284       0x24 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+                0x0000000008002284                _lseek_r
+ .text.__malloc_lock
+                0x00000000080022a8        0xc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+                0x00000000080022a8                __malloc_lock
+ .text.__malloc_unlock
+                0x00000000080022b4        0xc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+                0x00000000080022b4                __malloc_unlock
+ .text._free_r  0x00000000080022c0       0x98 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+                0x00000000080022c0                _free_r
+ .text._read_r  0x0000000008002358       0x24 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+                0x0000000008002358                _read_r
+ .text.abort    0x000000000800237c        0xe /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
+                0x000000000800237c                abort
+ .text.memcpy   0x000000000800238a       0x1c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+                0x000000000800238a                memcpy
+ *fill*         0x00000000080023a6        0x2 
+ .text._puts_r  0x00000000080023a8       0xdc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+                0x00000000080023a8                _puts_r
+ .text.puts     0x0000000008002484       0x10 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+                0x0000000008002484                puts
+ .text._raise_r
+                0x0000000008002494       0x50 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+                0x0000000008002494                _raise_r
+ .text.raise    0x00000000080024e4       0x10 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+                0x00000000080024e4                raise
+ .text._kill_r  0x00000000080024f4       0x24 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
+                0x00000000080024f4                _kill_r
+ .text._getpid_r
+                0x0000000008002518        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
+                0x0000000008002518                _getpid_r
+ .text.__swbuf_r
+                0x000000000800251c       0xa4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+                0x000000000800251c                __swbuf_r
+ .text.__swsetup_r
+                0x00000000080025c0       0xdc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+                0x00000000080025c0                __swsetup_r
+ .text.__swhatbuf_r
+                0x000000000800269c       0x4a /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+                0x000000000800269c                __swhatbuf_r
+ *fill*         0x00000000080026e6        0x2 
+ .text.__smakebuf_r
+                0x00000000080026e8       0x80 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+                0x00000000080026e8                __smakebuf_r
+ .text._fstat_r
+                0x0000000008002768       0x24 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+                0x0000000008002768                _fstat_r
+ .text._isatty_r
+                0x000000000800278c       0x20 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+                0x000000000800278c                _isatty_r
+ .text._exit    0x00000000080027ac       0x14 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_exit.o)
+                0x00000000080027ac                _exit
+ .text._kill_shared
+                0x00000000080027c0       0x26 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_kill.o)
+                0x00000000080027c0                _kill_shared
+ *fill*         0x00000000080027e6        0x2 
+ .text._kill    0x00000000080027e8       0x18 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-_kill.o)
+                0x00000000080027e8                _kill
+ *(.glue_7)
+ .glue_7        0x0000000008002800        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008002800        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008002800        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x0000000008002800        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008002800                _init
+ .init          0x0000000008002804        0x8 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x000000000800280c        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x000000000800280c                _fini
+ .fini          0x0000000008002810        0x8 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000008002818                . = ALIGN (0x4)
+                0x0000000008002818                _etext = .
+
+.vfp11_veneer   0x0000000008002818        0x0
+ .vfp11_veneer  0x0000000008002818        0x0 linker stubs
+
+.v4_bx          0x0000000008002818        0x0
+ .v4_bx         0x0000000008002818        0x0 linker stubs
+
+.iplt           0x0000000008002818        0x0
+ .iplt          0x0000000008002818        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x0000000008002818       0xb8
+                0x0000000008002818                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x0000000008002818       0x20 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ *(.rodata*)
+ .rodata.str1.4
+                0x0000000008002838        0x8 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .rodata._get_semihosting_exts.str1.1
+                0x0000000008002840       0x16 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .rodata.initialise_monitor_handles.str1.1
+                0x0000000008002856        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .rodata.sys_ahb_div_table.0
+                0x000000000800285a       0x10 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(system_at32f403a_407.o)
+ *fill*         0x000000000800286a        0x2 
+ .rodata.__sf_fake_stderr
+                0x000000000800286c       0x20 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x000000000800286c                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x000000000800288c       0x20 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x000000000800288c                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x00000000080028ac       0x20 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x00000000080028ac                __sf_fake_stdout
+ .rodata._global_impure_ptr
+                0x00000000080028cc        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+                0x00000000080028cc                _global_impure_ptr
+                0x00000000080028d0                . = ALIGN (0x4)
+
+.ARM.extab      0x00000000080028d0       0x60
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab.text.delay_init
+                0x00000000080028d0        0xc /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.at32_board_init
+                0x00000000080028dc        0xc /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.system_clock_config
+                0x00000000080028e8        0xc /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text._Z10button_isrv
+                0x00000000080028f4        0xc /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.EXINT0_IRQHandler
+                0x0000000008002900        0xc /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab.text.main
+                0x000000000800290c        0xc /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.extab     0x0000000008002918       0x18 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+
+.ARM            0x0000000008002930      0x108
+                0x0000000008002930                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx.text.at32_led_off
+                0x00000000080029e0        0x8 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.exidx.text.delay_ms
+                0x00000000080029e8        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.at32_button_init
+                0x00000000080029e8        0x8 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.exidx.text.at32_led_init
+                0x00000000080029f0        0x8 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.exidx.text.delay_init
+                0x00000000080029f8        0x8 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.exidx.text.at32_board_init
+                0x0000000008002a00        0x8 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.exidx.text.system_clock_config
+                0x0000000008002a08        0x8 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.exidx.text._Z10button_isrv
+                0x0000000008002a10        0x8 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.exidx.text.NMI_Handler
+                0x0000000008002a18        0x8 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.exidx.text.HardFault_Handler
+                0x0000000008002a20        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.MemManage_Handler
+                0x0000000008002a20        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.BusFault_Handler
+                0x0000000008002a20        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.UsageFault_Handler
+                0x0000000008002a20        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.SVC_Handler
+                0x0000000008002a20        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.DebugMon_Handler
+                0x0000000008002a20        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.PendSV_Handler
+                0x0000000008002a20        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.SysTick_Handler
+                0x0000000008002a20        0x0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text.EXINT0_IRQHandler
+                0x0000000008002a20        0x8 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.exidx.text.main
+                0x0000000008002a28       0x10 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx     0x0000000008002930       0x80 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                         0xd8 (size before relaxing)
+ .ARM.exidx     0x00000000080029b0       0x30 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+                                         0x38 (size before relaxing)
+                0x0000000008002a38                __exidx_end = .
+
+.rel.dyn        0x0000000008002a38        0x0
+ .rel.iplt      0x0000000008002a38        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.preinit_array  0x0000000008002a38        0x0
+                0x0000000008002a38                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008002a38                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000008002a38        0x4
+                0x0000000008002a38                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000008002a38        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000008002a3c                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000008002a3c        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008002a3c        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000008002a40                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000       0x78 load address 0x0000000008002a40
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ .data          0x0000000020000000        0x1 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ *(.data*)
+ *fill*         0x0000000020000001        0x3 
+ .data.__heap_limit
+                0x0000000020000004        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000020000004                __heap_limit
+ .data.supports_ext_exit_extended
+                0x0000000020000008        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .data.supports_ext_stdout_stderr
+                0x000000002000000c        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .data.system_core_clock
+                0x0000000020000010        0x4 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(system_at32f403a_407.o)
+                0x0000000020000010                system_core_clock
+ .data._impure_ptr
+                0x0000000020000014        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+                0x0000000020000014                _impure_ptr
+ .data.impure_data
+                0x0000000020000018       0x60 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+                0x0000000020000078                . = ALIGN (0x4)
+                0x0000000020000078                _edata = .
+
+.igot.plt       0x0000000020000078        0x0 load address 0x0000000008002ab8
+ .igot.plt      0x0000000020000078        0x0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000020000078                . = ALIGN (0x4)
+
+.bss            0x0000000020000078       0xe4 load address 0x0000000008002ab8
+                0x0000000020000078                _sbss = .
+                0x0000000020000078                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000078       0x1c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss           0x0000000020000094        0x8 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ *(.bss*)
+ .bss.heap_end.0
+                0x000000002000009c        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.monitor_stderr
+                0x00000000200000a0        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.monitor_stdin
+                0x00000000200000a4        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.monitor_stdout
+                0x00000000200000a8        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.openfiles
+                0x00000000200000ac       0xa0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x000000002000014c        0x1 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                0x000000002000014c                __lock___malloc_recursive_mutex
+ .bss.__lock___sfp_recursive_mutex
+                0x000000002000014d        0x1 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                0x000000002000014d                __lock___sfp_recursive_mutex
+ .bss.__lock___sinit_recursive_mutex
+                0x000000002000014e        0x1 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                0x000000002000014e                __lock___sinit_recursive_mutex
+ *fill*         0x000000002000014f        0x1 
+ .bss.__malloc_free_list
+                0x0000000020000150        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020000150                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x0000000020000154        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020000154                __malloc_sbrk_start
+ .bss.errno     0x0000000020000158        0x4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+                0x0000000020000158                errno
+ *(COMMON)
+                0x000000002000015c                . = ALIGN (0x4)
+                0x000000002000015c                _ebss = .
+                0x000000002000015c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x000000002000015c      0x604 load address 0x0000000008002ab8
+                0x0000000020000160                . = ALIGN (0x8)
+ *fill*         0x000000002000015c        0x4 
+                0x0000000020000160                PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x0000000020000360                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020000160      0x200 
+                0x0000000020000760                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000360      0x400 
+                0x0000000020000760                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x32 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .ARM.attributes
+                0x0000000000000084       0x21 ./user/startup_at32f403a_407.o
+ .ARM.attributes
+                0x00000000000000a5       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .ARM.attributes
+                0x00000000000000d9       0x34 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+ .ARM.attributes
+                0x000000000000010d       0x34 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+ .ARM.attributes
+                0x0000000000000141       0x34 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .ARM.attributes
+                0x0000000000000175       0x34 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_misc.o)
+ .ARM.attributes
+                0x00000000000001a9       0x34 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(system_at32f403a_407.o)
+ .ARM.attributes
+                0x00000000000001dd       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000211       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x0000000000000245       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x0000000000000279       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000002ad       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000002e1       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000315       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000349       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x000000000000037d       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000000003b1       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000000000003e5       0x17 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000000003fc       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000000000000430       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x0000000000000464       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000000000000498       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000000000004cc       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000500       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000534       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x0000000000000568       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000000000000059c       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
+ .ARM.attributes
+                0x00000000000005d0       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000604       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .ARM.attributes
+                0x0000000000000638       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .ARM.attributes
+                0x000000000000066c       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
+ .ARM.attributes
+                0x00000000000006a0       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x00000000000006d4       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x0000000000000708       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x000000000000073c       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000000000000770       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x00000000000007a4       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.attributes
+                0x00000000000007d8       0x1e /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+ .ARM.attributes
+                0x00000000000007f6       0x34 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x000000000000082a       0x1e /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(PERFORMANCE-TEST.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+
+.debug_info     0x0000000000000000     0x386c
+ .debug_info    0x0000000000000000      0x5b9 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .debug_info    0x00000000000005b9     0x197d /tmp/cctWgRcg.debug.temp.o
+                0x00000000000005b9                board.cpp.67c2b28d
+ .debug_info    0x0000000000001f36      0x48a /tmp/ccurYzX0.debug.temp.o
+                0x0000000000001f36                clock.cpp.76ec8ff4
+ .debug_info    0x00000000000023c0       0xb0 /tmp/cc63piXk.debug.temp.o
+                0x00000000000023c0                handlers.cpp.907016e5
+ .debug_info    0x0000000000002470     0x13da /tmp/ccnpDGYu.debug.temp.o
+                0x0000000000002470                main.cpp.2b28f25a
+ .debug_info    0x000000000000384a       0x22 ./user/startup_at32f403a_407.o
+
+.debug_abbrev   0x0000000000000000      0x60f
+ .debug_abbrev  0x0000000000000000       0xb9 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .debug_abbrev  0x00000000000000b9      0x2c3 /tmp/cctWgRcg.debug.temp.o
+ .debug_abbrev  0x000000000000037c       0x7d /tmp/ccurYzX0.debug.temp.o
+ .debug_abbrev  0x00000000000003f9       0x38 /tmp/cc63piXk.debug.temp.o
+ .debug_abbrev  0x0000000000000431      0x1cc /tmp/ccnpDGYu.debug.temp.o
+ .debug_abbrev  0x00000000000005fd       0x12 ./user/startup_at32f403a_407.o
+
+.debug_loc      0x0000000000000000       0x9c
+ .debug_loc     0x0000000000000000       0x9c /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+
+.debug_aranges  0x0000000000000000       0xd8
+ .debug_aranges
+                0x0000000000000000       0xb0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .debug_aranges
+                0x00000000000000b0       0x28 ./user/startup_at32f403a_407.o
+
+.debug_ranges   0x0000000000000000       0xc0
+ .debug_ranges  0x0000000000000000       0xa0 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .debug_ranges  0x00000000000000a0       0x20 ./user/startup_at32f403a_407.o
+
+.debug_line     0x0000000000000000     0x1dbc
+ .debug_line    0x0000000000000000      0x56f /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .debug_line    0x000000000000056f      0x67f /tmp/cctWgRcg.debug.temp.o
+ .debug_line    0x0000000000000bee      0x559 /tmp/ccurYzX0.debug.temp.o
+ .debug_line    0x0000000000001147      0x55f /tmp/cc63piXk.debug.temp.o
+ .debug_line    0x00000000000016a6      0x69b /tmp/ccnpDGYu.debug.temp.o
+ .debug_line    0x0000000000001d41       0x7b ./user/startup_at32f403a_407.o
+
+.debug_str      0x0000000000000000    0x1a121
+ .debug_str     0x0000000000000000      0x2b3 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+                                        0x325 (size before relaxing)
+ .debug_str     0x00000000000002b3    0x18ce3 /tmp/cctWgRcg.debug.temp.o
+                                      0x19132 (size before relaxing)
+ .debug_str     0x0000000000018f96      0x748 /tmp/ccurYzX0.debug.temp.o
+                                      0x14ad2 (size before relaxing)
+ .debug_str     0x00000000000196de       0xbc /tmp/cc63piXk.debug.temp.o
+                                      0x1430e (size before relaxing)
+ .debug_str     0x000000000001979a      0x8ec /tmp/ccnpDGYu.debug.temp.o
+                                      0x19439 (size before relaxing)
+ .debug_str     0x000000000001a086       0x9b ./user/startup_at32f403a_407.o
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x4a /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x49 /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_crm.o)
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_exint.o)
+ .comment       0x0000000000000049       0x4a /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_gpio.o)
+ .comment       0x0000000000000049       0x4a /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(at32f403a_407_misc.o)
+ .comment       0x0000000000000049       0x4a /home/expicmt/DevPrograms/Eclipse/embedcpp-2023-06/eclipse-2023-06-embedded-workspace/SYS-LIB/Debug/libSYS-LIB.a(system_at32f403a_407.o)
+
+.debug_frame    0x0000000000000000     0x1144
+ .debug_frame   0x0000000000000000      0x190 /tmp/PERFORMANCE-TEST.elf.0Q7qWf.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000190      0x3a0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/librdimon_nano.a(rdimon-syscalls.o)
+ .debug_frame   0x0000000000000530       0x20 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000550      0x14c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_frame   0x000000000000069c       0x54 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000000000006f0       0x2c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .debug_frame   0x000000000000071c       0xb0 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .debug_frame   0x00000000000007cc       0x20 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000000007ec       0x4c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000000838       0x2c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000864       0x88 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .debug_frame   0x00000000000008ec       0x2c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000918       0x2c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000944       0x5c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .debug_frame   0x00000000000009a0       0x2c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x00000000000009cc       0x30 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000000000009fc       0x38 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000000a34       0x2c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .debug_frame   0x0000000000000a60       0x5c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000abc       0x28 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
+ .debug_frame   0x0000000000000ae4       0x28 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000b0c       0x3c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .debug_frame   0x0000000000000b48       0xcc /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .debug_frame   0x0000000000000c14       0x3c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
+ .debug_frame   0x0000000000000c50       0x40 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x0000000000000c90       0x2c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x0000000000000cbc       0x58 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000000d14       0x2c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000000d40       0x2c /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x0000000000000d6c      0x2d4 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .debug_frame   0x0000000000001040      0x104 /home/expicmt/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+
+.debug_macro    0x0000000000000000     0x52aa
+ .debug_macro   0x0000000000000000      0x338 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000000338      0xbe6 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000000f1e       0x22 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000000f40       0x5e /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000000f9e       0x1e /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000000fbc       0x94 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001050       0x35 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001085       0x34 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000010b9       0x16 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000010cf       0x57 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001126       0x97 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000011bd      0x364 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001521      0x104 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001625       0x10 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001635       0x16 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x000000000000164b       0x43 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x000000000000168e       0x34 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000016c2       0x10 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000016d2       0x58 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x000000000000172a      0x182 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000018ac       0x10 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000018bc       0x6a /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001926       0x1c /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001942       0x52 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001994       0x22 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000019b6       0x10 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000019c6       0x52 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001a18       0xd5 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001aed       0x1c /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001b09       0x3d /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001b46       0x16 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001b5c      0x137 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001c93       0x57 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001cea       0x1c /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001d06      0x103 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001e09      0x1df /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000001fe8       0x1c /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000002004       0x22 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000002026       0xfb /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000002121     0x1011 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000003132      0x11f /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000003251       0x1c /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x000000000000326d      0x296 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000003503       0x1c /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x000000000000351f       0xb2 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000035d1       0xa7 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000003678       0xe4 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x000000000000375c       0x41 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x000000000000379d       0x1d /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000037ba      0x33b /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000003af5       0xaf /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000003ba4       0xae /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000003c52       0x29 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000003c7b      0x138 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000003db3       0x4f /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000003e02       0x1d /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000003e1f       0x76 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000003e95      0x20e /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000040a3       0xa1 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000004144      0x151 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000004295       0x11 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000042a6       0x16 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000042bc       0x1d /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000042d9       0x8f /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000004368      0x12c /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000004494       0x18 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000044ac       0x35 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000044e1       0x16 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000044f7      0x233 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x000000000000472a      0x2c5 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x00000000000049ef       0x70 /tmp/cctWgRcg.debug.temp.o
+ .debug_macro   0x0000000000004a5f      0x1d8 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000004c37       0x8e /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000004cc5       0x51 /tmp/ccurYzX0.debug.temp.o
+ .debug_macro   0x0000000000004d16      0x1d8 /tmp/cc63piXk.debug.temp.o
+ .debug_macro   0x0000000000004eee      0x358 /tmp/ccnpDGYu.debug.temp.o
+ .debug_macro   0x0000000000005246       0x64 /tmp/ccnpDGYu.debug.temp.o
